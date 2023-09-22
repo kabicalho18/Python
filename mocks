@@ -1,1 +1,152 @@
-
+[
+  {
+    "id": 3306,
+    "name": "Karen",
+    "account": {
+      "id": 3505,
+      "number": "9999",
+      "agency": "1532",
+      "balance": 0.0,
+      "limit": 700.0
+    },
+    "card": {
+      "id": 3200,
+      "number": "1111 2222 3333 4444",
+      "limit": 1000.0
+    },
+    "features": [
+      {
+        "id": 1017,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ],
+    "news": [
+      {
+        "id": 6724,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ]
+  },
+  {
+    "id": 3308,
+    "name": "Juliana",
+    "account": {
+      "id": 3507,
+      "number": "8888",
+      "agency": "1532",
+      "balance": 0.0,
+      "limit": 600.0
+    },
+    "card": {
+      "id": 3202,
+      "number": "1111 2222 3333 555",
+      "limit": 1000.0
+    },
+    "features": [
+      {
+        "id": 1018,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ],
+    "news": [
+      {
+        "id": 6725,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ]
+  },
+  {
+    "id": 3309,
+    "name": "Neusa",
+    "account": {
+      "id": 3508,
+      "number": "666",
+      "agency": "1533",
+      "balance": 0.0,
+      "limit": 800.0
+    },
+    "card": {
+      "id": 3203,
+      "number": "1111 2222 3333 7777",
+      "limit": 1000.0
+    },
+    "features": [
+      {
+        "id": 1019,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ],
+    "news": [
+      {
+        "id": 6726,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ]
+  },
+  {
+    "id": 3310,
+    "name": "Alaide",
+    "account": {
+      "id": 3509,
+      "number": "574",
+      "agency": "1533",
+      "balance": 0.0,
+      "limit": 300.0
+    },
+    "card": {
+      "id": 3204,
+      "number": "1111 2222 3333 9999",
+      "limit": 1000.0
+    },
+    "features": [
+      {
+        "id": 1020,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ],
+    "news": [
+      {
+        "id": 6727,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ]
+  },
+  {
+    "id": 3311,
+    "name": "Marcos",
+    "account": {
+      "id": 3510,
+      "number": "674",
+      "agency": "1533",
+      "balance": 0.0,
+      "limit": 200.0
+    },
+    "card": {
+      "id": 3205,
+      "number": "1111 2222 3333 5555",
+      "limit": 1000.0
+    },
+    "features": [
+      {
+        "id": 1021,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ],
+    "news": [
+      {
+        "id": 6728,
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "null"
+      }
+    ]
+  }
+]
